@@ -1,0 +1,9 @@
+# Ignore large bioinformatics files
+*.sam
+*.bam
+*.bai
+*.bt2
+*.fastq
+ncbi_dataset/
+sratoolkit.3.2.0-ubuntu64/
+sratoolkit.current-ubuntu64.tar.gz
