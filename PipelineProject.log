@@ -1,2 +1,6 @@
 Donor 1 (2dpi) had 2259287 read pairs before Bowtie2 filtering and 3672940 read pairs after.
 Donor 1 (6dpi) had 2004530 read pairs before Bowtie2 filtering and 2868934 read pairs after.
+SPAdes Command Used: spades.py --only-assembler -k 99 --pe1-1 mapped_2dpi_R1.fastq.gz --pe1-2 mapped_2dpi_R2.fastq.gz --pe2-1 mapped_6dpi_R1.fastq.gz --pe2-2 mapped_6dpi_R2.fastq.gz -o spades_output
+SPAdes Assembly Results:
+Total contigs assembled: 46679
+Total base pairs in contigs >1000bp: 111349 bp
